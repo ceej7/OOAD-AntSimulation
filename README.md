@@ -11,8 +11,8 @@ This Project is based on MFC and Visual studio 2017
    5. To open the project, double click Lab01.sln. This will open your VS.  
 ## Design
 1. Design Class
-![image](OOAD-AntSimulation\Document\DesignClass.png)
+![image](https://github.com/ceej7/OOAD-AntSimulation/blob/master/Document/DesignClass.png)
 2. Sequence
-![image](OOAD-AntSimulation\Document\SequenceDiagram.png)
+![image](https://github.com/ceej7/OOAD-AntSimulation/blob/master/Document/SequenceDiagram.png)
 
 
