@@ -10,9 +10,9 @@ This Project is based on MFC and Visual studio 2017
    4. SPEED->SpeedXX allows you to accelerate or decelerate the simulation
    5. To open the project, double click Lab01.sln. This will open your VS.  
 ## Design
-1. Design Class
+1. Design Class  
 ![image](https://github.com/ceej7/OOAD-AntSimulation/blob/master/Document/DesignClass.png)
-2. Sequence
+2. Sequence  
 ![image](https://github.com/ceej7/OOAD-AntSimulation/blob/master/Document/SequenceDiagram.png)
 
 
